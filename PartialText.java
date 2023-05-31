@@ -24,9 +24,7 @@ public class PartialText {
 		Thread.sleep(2000);
 		driver.findElement(By.partialLinkText("Ap")).click();
 		Thread.sleep(2000);
-		driver.findElement(By.partialLinkText("Supp")).click();
-		Thread.sleep(2000);
-		
+				
 		
 		
 
